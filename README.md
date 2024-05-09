@@ -1,5 +1,5 @@
 # DrinkShop
-Xamarin入門課程專題(Introduction to Xamarin.Forms)
+Xamarin入門課程專題(Project of Introduction to Xamarin.Forms)
 
 **DrinkShop**  
   
