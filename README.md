@@ -7,7 +7,7 @@ Xamarin入門課程專題(Introduction to Xamarin.Forms)
 Extending from the example Xaminals, four beverage shops' ordering systems were created and customized, using Navigation to direct customized pricing to the calculation page.  
 
 
-![image](https://user-images.githubusercontent.com/103955839/200924293-80fb88aa-adea-47b8-8480-3b708d1d6ee2.png)    
+![image](200924293-80fb88aa-adea-47b8-8480-3b708d1d6ee2.png)    
 ↑程式架構(Software Architecture)  
 
 ![未命名](https://user-images.githubusercontent.com/103955839/200930197-f39094dd-7269-445e-96ad-ebbd51087162.png)     
