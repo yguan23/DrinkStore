@@ -1,7 +1,8 @@
 # DrinkShop
 Xamarin入門課程專題(Introduction to Xamarin.Forms)
 
-**DrinkShop**    
+**DrinkShop**  
+  
 以範例Xaminals延伸製作四間飲料店點單、客製化系統，並使用Navigation將客製化價錢導向試算頁面。  
 Extending from the example Xaminals, four beverage shops' ordering systems were created and customized, using Navigation to direct customized pricing to the calculation page.  
 
